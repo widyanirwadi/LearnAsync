@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LearnAsync\bin\Debug\net6.0\LearnAsync.exe
+C:\Users\user\source\repos\LearnAsync\bin\Debug\net6.0\LearnAsync.deps.json
+C:\Users\user\source\repos\LearnAsync\bin\Debug\net6.0\LearnAsync.runtimeconfig.json
+C:\Users\user\source\repos\LearnAsync\bin\Debug\net6.0\LearnAsync.dll
+C:\Users\user\source\repos\LearnAsync\bin\Debug\net6.0\LearnAsync.pdb
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.AssemblyInfo.cs
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.dll
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\refint\LearnAsync.dll
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.pdb
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\LearnAsync.genruntimeconfig.cache
+C:\Users\user\source\repos\LearnAsync\obj\Debug\net6.0\ref\LearnAsync.dll
